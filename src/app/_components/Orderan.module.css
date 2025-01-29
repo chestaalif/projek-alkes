@@ -1,0 +1,1000 @@
+.groupChild {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: rgba(113, 113, 113, 0.6);
+  	width: 202px;
+  	height: 1065px;
+}
+.alkesCom {
+  	position: absolute;
+  	top: 0px;
+  	left: 11px;
+  	font-size: var(--font-size-5xl);
+  	font-family: var(--font-playfair-display);
+  	color: var(--color-white);
+}
+.icon {
+  	position: absolute;
+  	top: 59px;
+  	left: 11px;
+  	width: 27px;
+  	height: 27px;
+  	object-fit: cover;
+}
+.iniadmin {
+  	position: absolute;
+  	top: 63px;
+  	left: 46px;
+  	line-height: 20px;
+  	font-weight: 600;
+  	color: var(--color-white);
+}
+.tambahProduk {
+  	position: absolute;
+  	top: 169px;
+  	left: 11px;
+  	line-height: 20px;
+  	font-weight: 600;
+}
+.groupItem {
+  	position: absolute;
+  	top: 85px;
+  	left: 0px;
+  	backdrop-filter: blur(4px);
+  	border-radius: var(--br-5xs);
+  	background-color: rgba(255, 255, 255, 0.5);
+  	width: 105px;
+  	height: 21px;
+}
+.dashboard {
+  	position: absolute;
+  	top: 0px;
+  	left: 11px;
+  	line-height: 20px;
+  	font-weight: 600;
+}
+.rectangleGroup {
+  	position: absolute;
+  	top: 126px;
+  	left: 0px;
+  	width: 105px;
+  	height: 106px;
+}
+.orderan1 {
+  	position: absolute;
+  	top: 212px;
+  	left: 11px;
+  	line-height: 20px;
+  	font-weight: 600;
+}
+.alkesComParent {
+  	position: absolute;
+  	top: 55px;
+  	left: 27px;
+  	width: 158px;
+  	height: 232px;
+}
+.rectangleParent {
+  	position: absolute;
+  	top: -21px;
+  	left: -5px;
+  	width: 202px;
+  	height: 1065px;
+}
+.groupInner {
+  	position: absolute;
+  	top: 32px;
+  	left: 7px;
+  	backdrop-filter: blur(4px);
+  	border-radius: var(--br-3xs);
+  	background-color: var(--color-gray-100);
+  	width: 146px;
+  	height: 91px;
+}
+.menungguKonfirmasi {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	line-height: 20px;
+  	font-weight: 600;
+}
+.div {
+  	position: absolute;
+  	top: 68px;
+  	left: 69px;
+  	font-size: var(--font-size-17xl);
+  	line-height: 20px;
+  	font-weight: 600;
+}
+.rectangleContainer {
+  	position: absolute;
+  	top: 118px;
+  	left: 327px;
+  	width: 159px;
+  	height: 123px;
+}
+.rectangleDiv {
+  	position: absolute;
+  	top: 32px;
+  	left: 0px;
+  	backdrop-filter: blur(4px);
+  	border-radius: var(--br-3xs);
+  	background-color: var(--color-gray-100);
+  	width: 146px;
+  	height: 91px;
+}
+.pengiriman {
+  	position: absolute;
+  	top: 0px;
+  	left: 31px;
+  	line-height: 20px;
+  	font-weight: 600;
+}
+.div1 {
+  	position: absolute;
+  	top: 71px;
+  	left: 60px;
+  	font-size: var(--font-size-17xl);
+  	line-height: 20px;
+  	font-weight: 600;
+  	display: inline-block;
+  	width: 25px;
+  	height: 20px;
+}
+.groupDiv {
+  	position: absolute;
+  	top: 118px;
+  	left: 543px;
+  	width: 146px;
+  	height: 123px;
+}
+.orderanChild {
+  	position: absolute;
+  	top: 383px;
+  	left: 257px;
+  	filter: blur(4px);
+  	border-radius: var(--br-3xs);
+  	background-color: rgba(166, 166, 166, 0.3);
+  	width: 1428px;
+  	height: 338px;
+}
+.groupChild1 {
+  	position: absolute;
+  	top: 26px;
+  	left: 0px;
+  	backdrop-filter: blur(4px);
+  	border-radius: var(--br-3xs);
+  	background-color: rgba(0, 0, 0, 0.4);
+  	width: 235px;
+  	height: 121px;
+}
+.totalPendapatan {
+  	position: absolute;
+  	top: 0px;
+  	left: 50px;
+  	line-height: 20px;
+  	font-weight: 600;
+}
+.rp567500 {
+  	position: absolute;
+  	top: 76px;
+  	left: 19px;
+  	font-size: var(--font-size-17xl);
+  	line-height: 20px;
+  	font-weight: 600;
+  	color: var(--color-white);
+  	display: inline-block;
+  	width: 235px;
+  	height: 36px;
+}
+.rectangleParent1 {
+  	position: absolute;
+  	top: 102px;
+  	left: 1169px;
+  	width: 254px;
+  	height: 147px;
+}
+.groupChild2 {
+  	position: absolute;
+  	top: 35px;
+  	left: 0px;
+  	backdrop-filter: blur(4px);
+  	border-radius: var(--br-3xs);
+  	background-color: var(--color-gray-100);
+  	width: 146px;
+  	height: 91px;
+}
+.div2 {
+  	position: absolute;
+  	top: 68px;
+  	left: 60px;
+  	font-size: var(--font-size-17xl);
+  	line-height: 20px;
+  	font-weight: 600;
+  	display: inline-block;
+  	width: 130px;
+  	height: 20px;
+}
+.rectangleParent2 {
+  	position: absolute;
+  	top: 115px;
+  	left: 746px;
+  	width: 190px;
+  	height: 126px;
+}
+.totalPenjualan {
+  	position: absolute;
+  	top: 0px;
+  	left: 17px;
+  	line-height: 20px;
+  	font-weight: 600;
+}
+.div3 {
+  	position: absolute;
+  	top: 68px;
+  	left: 43px;
+  	font-size: var(--font-size-17xl);
+  	line-height: 20px;
+  	font-weight: 600;
+  	display: inline-block;
+  	width: 130px;
+  	height: 20px;
+}
+.totalPenjualanParent {
+  	position: absolute;
+  	top: 115px;
+  	left: 943px;
+  	width: 173px;
+  	height: 126px;
+}
+.orderanItem {
+  	position: absolute;
+  	top: 739px;
+  	left: 259px;
+  	filter: blur(4px);
+  	border-radius: var(--br-3xs);
+  	background-color: rgba(0, 0, 0, 0.3);
+  	width: 1344px;
+  	height: 298px;
+}
+.orderanInner {
+  	position: absolute;
+  	top: 780px;
+  	left: 289px;
+  	filter: blur(4px);
+  	background-color: var(--color-gainsboro-100);
+  	width: 1291px;
+  	height: 41px;
+}
+.menungguKonfirmasi1 {
+  	position: absolute;
+  	top: 748px;
+  	left: 299px;
+  	line-height: 20px;
+  	font-weight: 600;
+}
+.produk {
+  	position: absolute;
+  	top: 789px;
+  	left: 322px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.harga {
+  	position: absolute;
+  	top: 789px;
+  	left: 846px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.namaCustomer {
+  	position: absolute;
+  	top: 789px;
+  	left: 681px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.termometer {
+  	position: absolute;
+  	top: 842px;
+  	left: 322px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.juny2024 {
+  	position: absolute;
+  	top: 842px;
+  	left: 511px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.mrLexxan {
+  	position: absolute;
+  	top: 842px;
+  	left: 681px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.rp100000 {
+  	position: absolute;
+  	top: 842px;
+  	left: 846px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.tabungOksigen {
+  	position: absolute;
+  	top: 889px;
+  	left: 322px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.januari1945 {
+  	position: absolute;
+  	top: 889px;
+  	left: 511px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.micaw {
+  	position: absolute;
+  	top: 889px;
+  	left: 681px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.rp750000 {
+  	position: absolute;
+  	top: 889px;
+  	left: 846px;
+  	line-height: 20px;
+  	font-weight: 500;
+  	display: inline-block;
+  	width: 98px;
+  	height: 19px;
+}
+.suntik {
+  	position: absolute;
+  	top: 936px;
+  	left: 322px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.januari2020 {
+  	position: absolute;
+  	top: 936px;
+  	left: 511px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.onana {
+  	position: absolute;
+  	top: 936px;
+  	left: 683px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.date {
+  	position: absolute;
+  	top: 789px;
+  	left: 511px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.masker {
+  	position: absolute;
+  	top: 983px;
+  	left: 320px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.agustus2021 {
+  	position: absolute;
+  	top: 983px;
+  	left: 511px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.rafael {
+  	position: absolute;
+  	top: 983px;
+  	left: 681px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.rp20000 {
+  	position: absolute;
+  	top: 936px;
+  	left: 846px;
+  	line-height: 20px;
+  	font-weight: 500;
+  	display: inline-block;
+  	width: 98px;
+  	height: 14px;
+}
+.rp193000 {
+  	position: absolute;
+  	top: 984px;
+  	left: 846px;
+  	line-height: 20px;
+  	font-weight: 500;
+  	display: inline-block;
+  	width: 98px;
+  	height: 14px;
+}
+.alamat {
+  	position: absolute;
+  	top: 789px;
+  	left: 995px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.perumahanCleoBlok {
+  	margin: 0;
+}
+.perumahanCleoBlokContainer {
+  	position: absolute;
+  	top: 842px;
+  	left: 995px;
+  	font-size: var(--font-size-xs);
+  	line-height: 13px;
+  	font-weight: 500;
+  	display: inline-block;
+  	width: 267px;
+}
+.perumahanCleoBlokContainer1 {
+  	position: absolute;
+  	top: 889px;
+  	left: 995px;
+  	font-size: var(--font-size-xs);
+  	line-height: 13px;
+  	font-weight: 500;
+  	display: inline-block;
+  	width: 267px;
+}
+.perumahanCleoBlokContainer2 {
+  	position: absolute;
+  	top: 936px;
+  	left: 995px;
+  	font-size: var(--font-size-xs);
+  	line-height: 13px;
+  	font-weight: 500;
+  	display: inline-block;
+  	width: 267px;
+}
+.perumahanCleoBlokContainer3 {
+  	position: absolute;
+  	top: 984px;
+  	left: 995px;
+  	font-size: var(--font-size-xs);
+  	line-height: 13px;
+  	font-weight: 500;
+  	display: inline-block;
+  	width: 267px;
+}
+.groupChild4 {
+  	position: absolute;
+  	top: 2px;
+  	left: 0px;
+  	border-radius: var(--br-5xs);
+  	background-color: var(--color-limegreen);
+  	width: 67px;
+  	height: 18px;
+}
+.konfirmasi {
+  	position: absolute;
+  	top: 0px;
+  	left: 4px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.rectangleParent3 {
+  	position: absolute;
+  	top: 842px;
+  	left: 1491px;
+  	width: 67px;
+  	height: 20px;
+  	font-size: var(--font-size-3xs);
+  	color: var(--color-white);
+}
+.rectangleParent4 {
+  	position: absolute;
+  	top: 888px;
+  	left: 1491px;
+  	width: 67px;
+  	height: 20px;
+  	font-size: var(--font-size-3xs);
+  	color: var(--color-white);
+}
+.rectangleParent5 {
+  	position: absolute;
+  	top: 933px;
+  	left: 1491px;
+  	width: 67px;
+  	height: 20px;
+  	font-size: var(--font-size-3xs);
+  	color: var(--color-white);
+}
+.rectangleParent6 {
+  	position: absolute;
+  	top: 985px;
+  	left: 1491px;
+  	width: 67px;
+  	height: 20px;
+  	font-size: var(--font-size-3xs);
+  	color: var(--color-white);
+}
+.aksi {
+  	position: absolute;
+  	top: 789px;
+  	left: 1510px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.dashboard1 {
+  	position: absolute;
+  	top: 46px;
+  	left: 826px;
+  	font-size: var(--font-size-5xl);
+  	line-height: 20px;
+  	font-weight: 600;
+}
+.stokProduk {
+  	position: absolute;
+  	top: 789px;
+  	left: 1313px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.tersedia {
+  	position: absolute;
+  	top: 885px;
+  	left: 1325px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.kosong {
+  	position: absolute;
+  	top: 935px;
+  	left: 1325px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.tersedia1 {
+  	position: absolute;
+  	top: 837px;
+  	left: 1324px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.tersedia2 {
+  	position: absolute;
+  	top: 983px;
+  	left: 1324px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.orderanChild1 {
+  	position: absolute;
+  	top: 424px;
+  	left: 287px;
+  	filter: blur(4px);
+  	background-color: var(--color-gainsboro-100);
+  	width: 1376px;
+  	height: 41px;
+}
+.orderan2 {
+  	position: absolute;
+  	top: 392px;
+  	left: 297px;
+  	line-height: 20px;
+  	font-weight: 600;
+}
+.produk1 {
+  	position: absolute;
+  	top: 433px;
+  	left: 320px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.harga1 {
+  	position: absolute;
+  	top: 433px;
+  	left: 1012px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.namaCustomer1 {
+  	position: absolute;
+  	top: 433px;
+  	left: 679px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.status {
+  	position: absolute;
+  	top: 433px;
+  	left: 860px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.termometer1 {
+  	position: absolute;
+  	top: 486px;
+  	left: 320px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.juny20241 {
+  	position: absolute;
+  	top: 486px;
+  	left: 509px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.mrLexxan1 {
+  	position: absolute;
+  	top: 486px;
+  	left: 679px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.icon1 {
+  	position: absolute;
+  	top: 492px;
+  	left: 861px;
+  	width: 9px;
+  	height: 8px;
+  	object-fit: cover;
+}
+.icon2 {
+  	position: absolute;
+  	top: 586px;
+  	left: 861px;
+  	width: 8px;
+  	height: 8px;
+  	object-fit: cover;
+}
+.icon3 {
+  	position: absolute;
+  	top: 539px;
+  	left: 861px;
+  	width: 8.5px;
+  	height: 8px;
+  	object-fit: cover;
+}
+.pengiriman1 {
+  	position: absolute;
+  	top: 486px;
+  	left: 873px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.rp1000001 {
+  	position: absolute;
+  	top: 486px;
+  	left: 1012px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.tabungOksigen1 {
+  	position: absolute;
+  	top: 533px;
+  	left: 320px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.januari19451 {
+  	position: absolute;
+  	top: 533px;
+  	left: 509px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.micaw1 {
+  	position: absolute;
+  	top: 533px;
+  	left: 679px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.disiapkan {
+  	position: absolute;
+  	top: 533px;
+  	left: 873px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.rp7500001 {
+  	position: absolute;
+  	top: 533px;
+  	left: 1012px;
+  	line-height: 20px;
+  	font-weight: 500;
+  	display: inline-block;
+  	width: 98px;
+  	height: 19px;
+}
+.suntik1 {
+  	position: absolute;
+  	top: 580px;
+  	left: 320px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.januari20201 {
+  	position: absolute;
+  	top: 580px;
+  	left: 509px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.onana1 {
+  	position: absolute;
+  	top: 580px;
+  	left: 681px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.dibatalkan {
+  	position: absolute;
+  	top: 580px;
+  	left: 873px;
+  	line-height: 20px;
+  	font-weight: 500;
+  	color: #ff0000;
+}
+.date1 {
+  	position: absolute;
+  	top: 433px;
+  	left: 509px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.masker1 {
+  	position: absolute;
+  	top: 627px;
+  	left: 318px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.agustus20211 {
+  	position: absolute;
+  	top: 627px;
+  	left: 509px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.rafael1 {
+  	position: absolute;
+  	top: 627px;
+  	left: 679px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.pengiriman2 {
+  	position: absolute;
+  	top: 627px;
+  	left: 873px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.icon4 {
+  	position: absolute;
+  	top: 634px;
+  	left: 861px;
+  	width: 9px;
+  	height: 8px;
+  	object-fit: cover;
+}
+.rp200001 {
+  	position: absolute;
+  	top: 580px;
+  	left: 1012px;
+  	line-height: 20px;
+  	font-weight: 500;
+  	display: inline-block;
+  	width: 98px;
+  	height: 14px;
+}
+.rp1930001 {
+  	position: absolute;
+  	top: 628px;
+  	left: 1012px;
+  	line-height: 20px;
+  	font-weight: 500;
+  	display: inline-block;
+  	width: 98px;
+  	height: 14px;
+}
+.alamat1 {
+  	position: absolute;
+  	top: 433px;
+  	left: 1126px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.perumahanCleoBlokContainer4 {
+  	position: absolute;
+  	top: 486px;
+  	left: 1129px;
+  	font-size: var(--font-size-xs);
+  	line-height: 13px;
+  	font-weight: 500;
+  	display: inline-block;
+  	width: 267px;
+}
+.perumahanCleoBlokContainer5 {
+  	position: absolute;
+  	top: 533px;
+  	left: 1129px;
+  	font-size: var(--font-size-xs);
+  	line-height: 13px;
+  	font-weight: 500;
+  	display: inline-block;
+  	width: 267px;
+}
+.perumahanCleoBlokContainer6 {
+  	position: absolute;
+  	top: 580px;
+  	left: 1129px;
+  	font-size: var(--font-size-xs);
+  	line-height: 13px;
+  	font-weight: 500;
+  	display: inline-block;
+  	width: 267px;
+}
+.perumahanCleoBlokContainer7 {
+  	position: absolute;
+  	top: 628px;
+  	left: 1129px;
+  	font-size: var(--font-size-xs);
+  	line-height: 13px;
+  	font-weight: 500;
+  	display: inline-block;
+  	width: 267px;
+}
+.metodePembayaran {
+  	position: absolute;
+  	top: 433px;
+  	left: 1311px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.cod {
+  	position: absolute;
+  	top: 484px;
+  	left: 1471px;
+  	font-size: var(--font-size-xs);
+  	line-height: 13px;
+  	font-weight: 500;
+  	display: inline-block;
+  	width: 30px;
+}
+.cod1 {
+  	position: absolute;
+  	top: 533px;
+  	left: 1471px;
+  	font-size: var(--font-size-xs);
+  	line-height: 13px;
+  	font-weight: 500;
+  	display: inline-block;
+  	width: 30px;
+}
+.cod2 {
+  	position: absolute;
+  	top: 580px;
+  	left: 1471px;
+  	font-size: var(--font-size-xs);
+  	line-height: 13px;
+  	font-weight: 500;
+  	display: inline-block;
+  	width: 30px;
+}
+.cod3 {
+  	position: absolute;
+  	top: 628px;
+  	left: 1471px;
+  	font-size: var(--font-size-xs);
+  	line-height: 13px;
+  	font-weight: 500;
+  	display: inline-block;
+  	width: 30px;
+}
+.masker2 {
+  	position: absolute;
+  	top: 675px;
+  	left: 316px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.agustus20212 {
+  	position: absolute;
+  	top: 675px;
+  	left: 507px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.rioSamdan {
+  	position: absolute;
+  	top: 675px;
+  	left: 677px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.sampaiDiTujuan {
+  	position: absolute;
+  	top: 675px;
+  	left: 871px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.icon5 {
+  	position: absolute;
+  	top: 682px;
+  	left: 861px;
+  	width: 9px;
+  	height: 9px;
+  	object-fit: cover;
+}
+.rp1930002 {
+  	position: absolute;
+  	top: 676px;
+  	left: 1010px;
+  	line-height: 20px;
+  	font-weight: 500;
+  	display: inline-block;
+  	width: 98px;
+  	height: 14px;
+}
+.perumahanCleoBlokContainer8 {
+  	position: absolute;
+  	top: 676px;
+  	left: 1127px;
+  	font-size: var(--font-size-xs);
+  	line-height: 13px;
+  	font-weight: 500;
+  	display: inline-block;
+  	width: 267px;
+}
+.cod4 {
+  	position: absolute;
+  	top: 676px;
+  	left: 1469px;
+  	font-size: var(--font-size-xs);
+  	line-height: 13px;
+  	font-weight: 500;
+  	display: inline-block;
+  	width: 30px;
+}
+.aksi1 {
+  	position: absolute;
+  	top: 433px;
+  	left: 1603px;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.orderanChild2 {
+  	position: absolute;
+  	top: 93px;
+  	left: 242px;
+  	filter: blur(4px);
+  	border-radius: var(--br-3xs);
+  	background-color: rgba(224, 226, 230, 0.3);
+  	width: 1417px;
+  	height: 199px;
+}
+.orderan {
+  	width: 100%;
+  	position: relative;
+  	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  	background: linear-gradient(180deg, #dcdbdb, #b2c0da);
+  	height: 1044px;
+  	overflow: hidden;
+  	text-align: left;
+  	font-size: var(--font-size-sm);
+  	color: var(--color-black);
+  	font-family: var(--font-poppins);
+}
+

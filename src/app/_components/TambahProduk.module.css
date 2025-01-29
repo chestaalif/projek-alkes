@@ -1,0 +1,655 @@
+.containerWow {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+}
+.tambahProdukChild {
+    position: absolute;
+    top: 271px;
+    left: 313px;
+    filter: blur(4px);
+    border-radius: var(--br-3xs);
+    background-color: var(--color-darkgray-200);
+    width: 801px;
+    height: 469px;
+}
+.tambahProdukItem {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: rgba(113, 113, 113, 0.6);
+    width: 202px;
+    height: 885px;
+}
+.alkesCom {
+    position: absolute;
+    top: 40px;
+    left: 27px;
+    font-size: 24px;
+    font-family: var(--font-playfair-display);
+    color: var(--color-white);
+}
+.icon {
+    position: absolute;
+    top: 99px;
+    left: 27px;
+    width: 27px;
+    height: 27px;
+    object-fit: cover;
+}
+.iniadmin {
+    position: absolute;
+    top: 103px;
+    left: 62px;
+    line-height: 20px;
+    font-weight: 600;
+    color: var(--color-white);
+}
+.dashboard {
+    position: absolute;
+    top: 166px;
+    left: 27px;
+    line-height: 20px;
+    font-weight: 600;
+    color: #000;
+}
+.dashboard:hover {
+    position: absolute;
+    top: 166px;
+    left: 27px;
+    line-height: 20px;
+    font-weight: 600;
+    transition-duration: 0.4s;
+    background-color: rgba(255, 255, 255, 0.5);
+  transform: scale(1.05);
+  color: #000;
+    
+}
+.groupChild {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    backdrop-filter: blur(4px);
+    border-radius: 8px;
+    background-color: rgba(255, 255, 255, 0.5);
+    width: 125px;
+    height: 21px;
+}
+.tambahProduk1 {
+    position: absolute;
+    top: 1px;
+    left: 5px;
+    line-height: 20px;
+    font-weight: 600;
+}
+.rectangleParent {
+    position: absolute;
+    top: 208px;
+    left: 22px;
+    width: 125px;
+    height: 21px;
+}
+.informasiProduk {
+    position: absolute;
+    top: 103px;
+    left: 313px;
+    font-size: 20px;
+    line-height: 20px;
+    font-weight: 600;
+}
+.tambahProdukInner {
+    position: absolute;
+    top: 180.5px;
+    left: 312.5px;
+    border-top: 1px solid var(--color-black);
+    box-sizing: border-box;
+    width: 1262.1px;
+    height: 1px;
+}
+.rectangleDiv {
+    position: absolute;
+    top: 133px;
+    left: 1322px;
+    border-radius: var(--br-8xs);
+    background-color: var(--color-darkgray-100);
+    width: 148px;
+    height: 29px;
+}
+.tambahProduk2 {
+    position: absolute;
+    top: 138px;
+    left: 1349px;
+    line-height: 20px;
+    font-weight: 600;
+}
+.icon1 {
+    position: absolute;
+    top: 142px;
+    left: 1333px;
+    width: 12px;
+    height: 12px;
+    object-fit: cover;
+}
+.icon2 {
+    position: absolute;
+    top: 755px;
+    left: 1094px;
+    width: 20px;
+    height: 20px;
+    object-fit: cover;
+}
+.icon3 {
+    position: absolute;
+    top: 756px;
+    left: 1010px;
+    width: 20px;
+    height: 20px;
+    object-fit: cover;
+}
+.groupItem {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: var(--color-gainsboro-100);
+    width: 56px;
+    height: 19px;
+}
+.div {
+    position: absolute;
+    top: 0px;
+    left: 8px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.div1 {
+    position: absolute;
+    top: 0px;
+    left: 22px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.div2 {
+    position: absolute;
+    top: 0px;
+    left: 40px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.rectangleGroup {
+    position: absolute;
+    top: 756px;
+    left: 1036px;
+    width: 56px;
+    height: 20px;
+}
+.lineDiv {
+    position: absolute;
+    top: 773.5px;
+    left: 1041.5px;
+    border-top: 1px solid var(--color-black);
+    box-sizing: border-box;
+    width: 10px;
+    height: 1px;
+}
+.tambahProdukChild1 {
+    position: absolute;
+    top: 212px;
+    left: 313px;
+    border-radius: var(--br-3xs);
+    background-color: var(--color-gainsboro-100);
+    width: 355px;
+    height: 34px;
+}
+.icon4 {
+    position: absolute;
+    top: 220px;
+    left: 330px;
+    width: 17px;
+    height: 17px;
+    object-fit: cover;
+}
+.pencarianProdukmu {
+    position: absolute;
+    top: 219px;
+    left: 451px;
+    font-size: 11px;
+    line-height: 20px;
+    font-weight: 500;
+    color: rgba(0, 0, 0, 0.2);
+}
+.tambahProdukChild2 {
+    position: absolute;
+    top: 433px;
+    left: 1164px;
+    filter: blur(4px);
+    border-radius: var(--br-3xs);
+    background-color: var(--color-darkgray-200);
+    width: 355px;
+    height: 307px;
+}
+.tambahProdukChild3 {
+    position: absolute;
+    top: 447px;
+    left: 1180px;
+    filter: blur(4px);
+    background-color: var(--color-gainsboro-200);
+    width: 323px;
+    height: 41px;
+}
+.produkstokHabis {
+    position: absolute;
+    top: 458px;
+    left: 1280px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.kertasUsgSony {
+    position: absolute;
+    top: 525px;
+    left: 1262px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.tambahProdukChild4 {
+    position: absolute;
+    top: 506px;
+    left: 1180px;
+    border-radius: var(--br-8xs);
+    background-color: var(--color-gray-100);
+    width: 59px;
+    height: 57px;
+}
+.groupInner {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: var(--br-8xs);
+    background-color: var(--color-gray-100);
+    width: 59px;
+    height: 57px;
+}
+.screenshot202501131114452 {
+    position: absolute;
+    top: 7px;
+    left: 17px;
+    width: 25px;
+    height: 44.5px;
+    object-fit: cover;
+}
+.rectangleContainer {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 59px;
+    height: 57px;
+}
+.tensimeterManual {
+    position: absolute;
+    top: 19px;
+    left: 82px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.groupParent {
+    position: absolute;
+    top: 582px;
+    left: 1180px;
+    width: 218px;
+    height: 57px;
+}
+.groupDiv {
+    position: absolute;
+    top: 658px;
+    left: 1180px;
+    width: 164px;
+    height: 57px;
+}
+.orderan {
+    position: absolute;
+    top: 251px;
+    left: 27px;
+    line-height: 20px;
+    font-weight: 600;
+    color: #000;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1) 0.4s;
+}
+.orderan:hover {
+    position: absolute;
+    top: 251px;
+    left: 27px;
+    line-height: 20px;
+    font-weight: 600;
+    transition-duration: 0.4s;
+    background-color: rgba(255, 255, 255, 0.5);
+  transform: scale(1.05);
+  color: #000;
+}
+.tambahProdukChild5 {
+    position: absolute;
+    top: 133px;
+    left: 1164px;
+    border-radius: var(--br-8xs);
+    background-color: var(--color-darkgray-100);
+    width: 148px;
+    height: 29px;
+}
+.editProduk {
+    position: absolute;
+    top: 138px;
+    left: 1202px;
+    line-height: 20px;
+    font-weight: 600;
+}
+.icon5 {
+    position: absolute;
+    top: 140px;
+    left: 1177px;
+    width: 15px;
+    height: 15px;
+    object-fit: cover;
+}
+.alatCek3 {
+    position: absolute;
+    top: 233px;
+    left: 170px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.groupChild2 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    filter: blur(4px);
+    background-color: var(--color-gainsboro-200);
+    width: 756px;
+    height: 41px;
+}
+.gambarProduk {
+    position: absolute;
+    top: 6px;
+    left: 13px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.namaProduk {
+    position: absolute;
+    top: 6px;
+    left: 169px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.kursiRodaGea {
+    position: absolute;
+    top: 81px;
+    left: 169px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.hargaProduk {
+    position: absolute;
+    top: 6px;
+    left: 416px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.aksi {
+    position: absolute;
+    top: 6px;
+    left: 686px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.stok {
+    position: absolute;
+    top: 6px;
+    left: 589px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.rp100000 {
+    position: absolute;
+    top: 81px;
+    left: 416px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.groupChild3 {
+    position: absolute;
+    top: 62px;
+    left: 39px;
+    border-radius: var(--br-8xs);
+    background-color: var(--color-gray-100);
+    width: 59px;
+    height: 57px;
+}
+.div3 {
+    position: absolute;
+    top: 81px;
+    left: 605px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.icon6 {
+    position: absolute;
+    top: 81px;
+    left: 691px;
+    width: 20px;
+    height: 20px;
+    object-fit: cover;
+}
+.groupChild4 {
+    position: absolute;
+    top: 294px;
+    left: 40px;
+    border-radius: var(--br-8xs);
+    background-color: var(--color-gray-100);
+    width: 59px;
+    height: 57px;
+}
+.groupIcon {
+    position: absolute;
+    top: 157px;
+    left: 691px;
+    width: 20px;
+    height: 20px;
+    object-fit: cover;
+}
+.rectangleWrapper {
+    position: absolute;
+    top: 138px;
+    left: 39px;
+    width: 59px;
+    height: 57px;
+}
+.tensimeterManual1 {
+    position: absolute;
+    top: 157px;
+    left: 169px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.rp65000 {
+    position: absolute;
+    top: 157px;
+    left: 416px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.div4 {
+    position: absolute;
+    top: 157px;
+    left: 603px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.maskerNeo1 {
+    position: absolute;
+    top: 308px;
+    left: 170px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.rp10000 {
+    position: absolute;
+    top: 19px;
+    left: 377px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.rectangleParent1 {
+    position: absolute;
+    top: 214px;
+    left: 39px;
+    width: 443px;
+    height: 57px;
+}
+.rp129000 {
+    position: absolute;
+    top: 308px;
+    left: 417px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.div5 {
+    position: absolute;
+    top: 233px;
+    left: 598px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.groupChild7 {
+    position: absolute;
+    top: 233px;
+    left: 691px;
+    width: 20px;
+    height: 20px;
+    object-fit: cover;
+}
+.div6 {
+    position: absolute;
+    top: 308px;
+    left: 605px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.groupChild8 {
+    position: absolute;
+    top: 308px;
+    left: 691px;
+    width: 20px;
+    height: 20px;
+    object-fit: cover;
+}
+.groupChild9 {
+    position: absolute;
+    top: 389px;
+    left: 691px;
+    width: 20px;
+    height: 20px;
+    object-fit: cover;
+}
+.rectangleFrame {
+    position: absolute;
+    top: 370px;
+    left: 40px;
+    width: 59px;
+    height: 57px;
+}
+.kertasUsgSony1 {
+    position: absolute;
+    top: 389px;
+    left: 170px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.rp650001 {
+    position: absolute;
+    top: 389px;
+    left: 417px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.div7 {
+    position: absolute;
+    top: 389px;
+    left: 604px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.icon7 {
+    position: absolute;
+    top: 374px;
+    left: 59px;
+    width: 23px;
+    height: 50px;
+    object-fit: contain;
+}
+.whatsappImage20250109At1 {
+    position: absolute;
+    top: 308px;
+    left: 49px;
+    width: 40px;
+    height: 27.7px;
+    object-fit: cover;
+}
+.whatsappImage20250109At1Icon {
+    position: absolute;
+    top: 66px;
+    left: 45px;
+    width: 50px;
+    height: 49.4px;
+    object-fit: cover;
+}
+.screenshot2025011311144521 {
+    position: absolute;
+    top: 143px;
+    left: 56px;
+    width: 25px;
+    height: 44.5px;
+    object-fit: cover;
+}
+.screenshot202501131125341 {
+    position: absolute;
+    top: 223px;
+    left: 48px;
+    width: 40px;
+    height: 41.9px;
+    object-fit: cover;
+}
+.alatCek3In1NescoParent {
+    position: absolute;
+    top: 288px;
+    left: 325px;
+    width: 756px;
+    height: 427px;
+}
+.icon8 {
+    position: absolute;
+    top: 510px;
+    left: 1198px;
+    width: 23px;
+    height: 50px;
+    object-fit: contain;
+}
+.whatsappImage20250109At11 {
+    position: absolute;
+    top: 673px;
+    left: 1190px;
+    width: 40px;
+    height: 27.7px;
+    object-fit: cover;
+}
+.tambahProduk {
+    width: 100%;
+    position: relative;
+    background: linear-gradient(180deg, #dcdbdb, #b2c0da);
+    height: 885px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-sm);
+    color: var(--color-black);
+    font-family: var(--font-poppins);
+}
+

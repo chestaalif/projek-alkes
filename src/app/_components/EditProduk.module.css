@@ -1,0 +1,465 @@
+.editProdukChild {
+    position: absolute;
+    top: 217px;
+    left: 353px;
+    filter: blur(4px);
+    border-radius: 10px;
+    background-color: rgba(166, 166, 166, 0.3);
+    width: 802px;
+    height: 409px;
+}
+.editProduk1 {
+    position: absolute;
+    top: 53px;
+    left: 327px;
+    font-size: 20px;
+    line-height: 20px;
+    font-weight: 600;
+    display: inline-block;
+    width: 118px;
+    height: 18px;
+}
+.editProdukItem {
+    position: absolute;
+    top: 110.5px;
+    left: 309.5px;
+    border-top: 1px solid var(--color-black);
+    box-sizing: border-box;
+    width: 1022px;
+    height: 1px;
+}
+.editProdukInner {
+    position: absolute;
+    top: 663px;
+    left: 1086px;
+    background-color: #00c11a;
+    width: 86px;
+    height: 23px;
+}
+.konfirmasi {
+    position: absolute;
+    top: 666px;
+    left: 1097px;
+    line-height: 20px;
+    font-weight: 500;
+    color: var(--color-white);
+    display: inline-block;
+    width: 69px;
+    height: 18px;
+}
+.rectangleDiv {
+    position: absolute;
+    top: 663px;
+    left: 983px;
+    background-color: #b80000;
+    width: 86px;
+    height: 23px;
+}
+.batalkan {
+    position: absolute;
+    top: 666px;
+    left: 997px;
+    line-height: 20px;
+    font-weight: 500;
+    color: var(--color-white);
+    display: inline-block;
+    width: 59px;
+    height: 18px;
+}
+.alatCek3 {
+    position: absolute;
+    top: 211.61px;
+    left: 169.63px;
+    line-height: 20px;
+    font-weight: 500;
+    display: inline-block;
+    width: 145.7px;
+    height: 18.2px;
+}
+.groupChild {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    filter: blur(4px);
+    background-color: rgba(224, 226, 230, 0.5);
+    width: 786.7px;
+    height: 37.2px;
+}
+.gambarProduk {
+    position: absolute;
+    top: 5.45px;
+    left: 6.24px;
+    line-height: 20px;
+    font-weight: 500;
+    display: inline-block;
+    width: 116.6px;
+    height: 18.2px;
+}
+.namaProduk {
+    position: absolute;
+    top: 5.45px;
+    left: 168.59px;
+    line-height: 20px;
+    font-weight: 500;
+    display: inline-block;
+    width: 100.9px;
+    height: 18.2px;
+}
+.kursiRodaGea {
+    position: absolute;
+    top: 73.56px;
+    left: 168.59px;
+    line-height: 20px;
+    font-weight: 500;
+    display: inline-block;
+    width: 106.1px;
+    height: 18.2px;
+}
+.hargaProduk {
+    position: absolute;
+    top: 5.45px;
+    left: 425.63px;
+    line-height: 20px;
+    font-weight: 500;
+    display: inline-block;
+    width: 100.9px;
+    height: 18.2px;
+}
+.aksi {
+    position: absolute;
+    top: 5.45px;
+    left: 706.6px;
+    line-height: 20px;
+    font-weight: 500;
+    display: inline-block;
+    width: 30.2px;
+    height: 18.2px;
+}
+.stok {
+    position: absolute;
+    top: 5.45px;
+    left: 605.66px;
+    line-height: 20px;
+    font-weight: 500;
+    display: inline-block;
+    width: 32.3px;
+    height: 18.2px;
+}
+.rp100000 {
+    position: absolute;
+    top: 73.56px;
+    left: 425.63px;
+    line-height: 20px;
+    font-weight: 500;
+    display: inline-block;
+    width: 78px;
+    height: 18.2px;
+}
+.groupItem {
+    position: absolute;
+    top: 56.31px;
+    left: 33.3px;
+    border-radius: var(--br-8xs);
+    background-color: var(--color-gray);
+    width: 61.4px;
+    height: 51.8px;
+}
+.div {
+    position: absolute;
+    top: 73.56px;
+    left: 622.31px;
+    line-height: 20px;
+    font-weight: 500;
+    display: inline-block;
+    width: 9.4px;
+    height: 18.2px;
+}
+.icon {
+    position: absolute;
+    top: 73.56px;
+    left: 711.8px;
+    width: 20.8px;
+    height: 18.2px;
+    object-fit: cover;
+}
+.groupInner {
+    position: absolute;
+    top: 267px;
+    left: 34.34px;
+    border-radius: var(--br-8xs);
+    background-color: var(--color-gray);
+    width: 61.4px;
+    height: 51.8px;
+}
+.groupIcon {
+    position: absolute;
+    top: 142.58px;
+    left: 711.8px;
+    width: 20.8px;
+    height: 18.2px;
+    object-fit: cover;
+}
+.groupChild1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: var(--br-8xs);
+    background-color: var(--color-gray);
+    width: 61.4px;
+    height: 51.8px;
+}
+.rectangleWrapper {
+    position: absolute;
+    top: 125.33px;
+    left: 33.3px;
+    width: 61.4px;
+    height: 51.8px;
+}
+.tensimeterManual {
+    position: absolute;
+    top: 142.58px;
+    left: 168.59px;
+    line-height: 20px;
+    font-weight: 500;
+    display: inline-block;
+    width: 141.5px;
+    height: 18.2px;
+}
+.rp65000 {
+    position: absolute;
+    top: 142.58px;
+    left: 425.63px;
+    line-height: 20px;
+    font-weight: 500;
+    display: inline-block;
+    width: 72.8px;
+    height: 18.2px;
+}
+.div1 {
+    position: absolute;
+    top: 142.58px;
+    left: 620.23px;
+    line-height: 20px;
+    font-weight: 500;
+    display: inline-block;
+    width: 14.6px;
+    height: 18.2px;
+}
+.maskerNeo {
+    position: absolute;
+    top: 279.72px;
+    left: 169.63px;
+    line-height: 20px;
+    font-weight: 500;
+    display: inline-block;
+    width: 87.4px;
+    height: 18.2px;
+}
+.rp10000 {
+    position: absolute;
+    top: 17.26px;
+    left: 392.32px;
+    line-height: 20px;
+    font-weight: 500;
+    display: inline-block;
+    width: 68.7px;
+    height: 18.2px;
+}
+.rectangleParent {
+    position: absolute;
+    top: 194.35px;
+    left: 33.3px;
+    width: 461px;
+    height: 51.8px;
+}
+.rp129000 {
+    position: absolute;
+    top: 279.72px;
+    left: 426.67px;
+    line-height: 20px;
+    font-weight: 500;
+    display: inline-block;
+    width: 77px;
+    height: 18.2px;
+}
+.div2 {
+    position: absolute;
+    top: 211.61px;
+    left: 615.02px;
+    line-height: 20px;
+    font-weight: 500;
+    display: inline-block;
+    width: 23.9px;
+    height: 18.2px;
+}
+.groupChild3 {
+    position: absolute;
+    top: 211.61px;
+    left: 711.8px;
+    width: 20.8px;
+    height: 18.2px;
+    object-fit: cover;
+}
+.div3 {
+    position: absolute;
+    top: 279.72px;
+    left: 622.31px;
+    line-height: 20px;
+    font-weight: 500;
+    display: inline-block;
+    width: 9.4px;
+    height: 18.2px;
+}
+.groupChild4 {
+    position: absolute;
+    top: 279.72px;
+    left: 711.8px;
+    width: 20.8px;
+    height: 18.2px;
+    object-fit: cover;
+}
+.groupChild5 {
+    position: absolute;
+    top: 353.28px;
+    left: 711.8px;
+    width: 20.8px;
+    height: 18.2px;
+    object-fit: cover;
+}
+.rectangleContainer {
+    position: absolute;
+    top: 336.03px;
+    left: 34.34px;
+    width: 61.4px;
+    height: 51.8px;
+}
+.kertasUsgSony {
+    position: absolute;
+    top: 353.28px;
+    left: 169.63px;
+    line-height: 20px;
+    font-weight: 500;
+    display: inline-block;
+    width: 115.5px;
+    height: 18.2px;
+}
+.rp650001 {
+    position: absolute;
+    top: 353.28px;
+    left: 426.67px;
+    line-height: 20px;
+    font-weight: 500;
+    display: inline-block;
+    width: 72.8px;
+    height: 18.2px;
+}
+.div4 {
+    position: absolute;
+    top: 353.28px;
+    left: 621.27px;
+    line-height: 20px;
+    font-weight: 500;
+    display: inline-block;
+    width: 14.6px;
+    height: 18.2px;
+}
+.icon1 {
+    position: absolute;
+    top: 339.66px;
+    left: 54.11px;
+    width: 23.9px;
+    height: 45.4px;
+    object-fit: contain;
+}
+.icon2 {
+    position: absolute;
+    top: 353.28px;
+    left: 52.03px;
+    width: 26px;
+    height: 22.7px;
+    object-fit: cover;
+}
+.whatsappImage20250109At1 {
+    position: absolute;
+    top: 279.72px;
+    left: 43.71px;
+    width: 41.6px;
+    height: 25.1px;
+    object-fit: cover;
+}
+.whatsappImage20250109At1Icon {
+    position: absolute;
+    top: 59.94px;
+    left: 39.54px;
+    width: 52px;
+    height: 44.9px;
+    object-fit: cover;
+}
+.icon3 {
+    position: absolute;
+    top: 69.02px;
+    left: 50.99px;
+    width: 26px;
+    height: 22.7px;
+    object-fit: cover;
+}
+.screenshot202501131114452 {
+    position: absolute;
+    top: 129.87px;
+    left: 50.99px;
+    width: 26px;
+    height: 40.4px;
+    object-fit: cover;
+}
+.icon4 {
+    position: absolute;
+    top: 139.86px;
+    left: 50.99px;
+    width: 26px;
+    height: 22.7px;
+    object-fit: cover;
+}
+.icon5 {
+    position: absolute;
+    top: 279.72px;
+    left: 50.99px;
+    width: 26px;
+    height: 22.7px;
+    object-fit: cover;
+}
+.screenshot202501131125341 {
+    position: absolute;
+    top: 202.52px;
+    left: 42.67px;
+    width: 41.6px;
+    height: 38.1px;
+    object-fit: cover;
+}
+.icon6 {
+    position: absolute;
+    top: 208.88px;
+    left: 50.99px;
+    width: 26px;
+    height: 22.7px;
+    object-fit: cover;
+}
+.alatCek3In1NescoParent {
+    position: absolute;
+    top: 227.37px;
+    left: 360.99px;
+    width: 786.7px;
+    height: 387.8px;
+    font-size: var(--font-size-sm);
+}
+.editProduk {
+    width: 100%;
+    position: relative;
+    background: linear-gradient(180deg, #dcdbdb, #b2c0da);
+    height: 885px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-2xs);
+    color: var(--color-black);
+    font-family: var(--font-poppins);
+}
+
