@@ -26,11 +26,17 @@ const Orderan:FunctionComponent = () => {
           					<b className={styles.alkesCom}>ALKES .COM</b>
           					<Image className={styles.icon} alt="" src={profiladmin} />
           					<div className={styles.iniadmin}>iniadmin</div>
+							<Link href="/TambahProduk">
           					<div className={styles.tambahProduk}>Tambah Produk</div>
+							</Link>
+							
           					<div className={styles.rectangleGroup}>
             						<div className={styles.groupItem} />
+									<Link href="/Dashboard">
             						<div className={styles.dashboard}>Dashboard</div>
+									</Link>
           					</div>
+							
           					<div className={styles.orderan1}>Orderan</div>
         				</div>
       			</div>

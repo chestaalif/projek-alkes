@@ -341,6 +341,18 @@
     left: 1202px;
     line-height: 20px;
     font-weight: 600;
+   transition-duration:0.4s;
+    color: #000;
+}
+.editProduk:hover {
+    position: absolute;
+    top: 138px;
+    left: 1202px;
+    line-height: 20px;
+    font-weight: 600;
+    background-color: rgba(255, 255, 255, 0.5);
+  transform: scale(1.05);
+    color: #000;
 }
 .icon5 {
     position: absolute;

@@ -377,7 +377,19 @@
     left: 52.03px;
     width: 26px;
     height: 22.7px;
+    transition: opacity 0.3s ease;
     object-fit: cover;
+}
+.icon2:hover {
+    position: absolute;
+    top: 353.28px;
+    left: 52.03px;
+    width: 26px;
+    height: 22.7px;
+    object-fit: cover;
+    opacity: 1;
+   
+
 }
 .whatsappImage20250109At1 {
     position: absolute;
@@ -461,5 +473,6 @@
     font-size: var(--font-size-2xs);
     color: var(--color-black);
     font-family: var(--font-poppins);
+    
 }
 

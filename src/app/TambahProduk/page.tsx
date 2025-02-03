@@ -1,8 +1,8 @@
 "use client";
 import { FunctionComponent, useCallback } from 'react';
 import Link from 'next/link';
-import styles from '../_components/TambahProduk.module.css';
 import Image from 'next/image';
+import styles from '../_components/TambahProduk.module.css';
 import tambah from '@/assets/tambahproduk/748113 1.png'
 import search from '@/assets/tambahproduk/54481 1.png'
 import sampah from '@/assets/tambahproduk/3976961 1.png'
@@ -69,7 +69,9 @@ const TambahProduk:FunctionComponent = () => {
       			<div className={styles.orderan}>Orderan</div>
 				</Link>
       			<div className={styles.tambahProdukChild5} />
+				<Link href="/EditProduk">
       			<div className={styles.editProduk}>edit produk</div>
+				</Link>
       			<Image className={styles.icon5} alt="" src={icon1} />
       			<div className={styles.alatCek3In1NescoParent}>
         				<div className={styles.alatCek3}>alat cek 3 in 1 nesco</div>

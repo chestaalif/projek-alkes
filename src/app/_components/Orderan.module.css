@@ -36,6 +36,18 @@
   	left: 11px;
   	line-height: 20px;
   	font-weight: 600;
+	transition-duration: 0.4s;
+	color: black;
+}
+.tambahProduk:hover {
+  	position: absolute;
+  	top: 169px;
+  	left: 11px;
+  	line-height: 20px;
+  	font-weight: 600;
+	background-color: rgba(255, 255, 255, 0.5);
+  transform: scale(1.05);
+	color: black;
 }
 .groupItem {
   	position: absolute;
@@ -53,6 +65,18 @@
   	left: 11px;
   	line-height: 20px;
   	font-weight: 600;
+	color: black;
+	transition-duration: 0.4s;
+}
+.dashboard:hover {
+  	position: absolute;
+  	top: 0px;
+  	left: 11px;
+  	line-height: 20px;
+  	font-weight: 600;
+	color: black;
+	background-color: rgba(255, 255, 255, 0.5);
+  transform: scale(1.05);
 }
 .rectangleGroup {
   	position: absolute;
