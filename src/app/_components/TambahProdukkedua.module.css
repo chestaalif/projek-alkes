@@ -1,0 +1,573 @@
+.tambahProdukChild {
+    position: absolute;
+    top: 281px;
+    left: 116px;
+    filter: blur(4px);
+    border-radius: var(--br-3xs);
+    background: linear-gradient(180deg, rgba(93, 240, 255, 0.5), rgba(79, 176, 255, 0.5));
+    width: 801px;
+    height: 469px;
+}
+.tambahProduk1 {
+    position: absolute;
+    top: 114px;
+    left: 134px;
+    font-size: 20px;
+    line-height: 20px;
+    font-weight: 600;
+}
+.tambahProdukItem {
+    position: absolute;
+    top: 191.5px;
+    left: 133.5px;
+    border-top: 1px solid var(--color-black);
+    box-sizing: border-box;
+    width: 1262.1px;
+    height: 1px;
+}
+.icon {
+    position: absolute;
+    top: 750px;
+    left: 884px;
+    width: 20px;
+    height: 20px;
+    object-fit: cover;
+}
+.icon1 {
+    position: absolute;
+    top: 751px;
+    left: 800px;
+    width: 20px;
+    height: 20px;
+    object-fit: cover;
+}
+.groupChild {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 56px;
+    height: 19px;
+}
+.div {
+    position: absolute;
+    top: 0px;
+    left: 8px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.div1 {
+    position: absolute;
+    top: 0px;
+    left: 22px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.div2 {
+    position: absolute;
+    top: 0px;
+    left: 40px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.rectangleParent {
+    position: absolute;
+    top: 751px;
+    left: 826px;
+    width: 56px;
+    height: 20px;
+}
+.tambahProdukInner {
+    position: absolute;
+    top: 768.5px;
+    left: 831.5px;
+    border-top: 1px solid var(--color-black);
+    box-sizing: border-box;
+    width: 10px;
+    height: 1px;
+}
+.rectangleDiv {
+    position: absolute;
+    top: 223px;
+    left: 134px;
+    border-radius: var(--br-3xs);
+    background-color: var(--color-gainsboro-100);
+    width: 355px;
+    height: 34px;
+}
+.icon2 {
+    position: absolute;
+    top: 231px;
+    left: 151px;
+    width: 17px;
+    height: 17px;
+    object-fit: cover;
+}
+.pencarianProdukmu {
+    position: absolute;
+    top: 230px;
+    left: 272px;
+    font-size: var(--font-size-2xs);
+    line-height: 20px;
+    font-weight: 500;
+    color: black;
+    color: #000;
+    background-color: var(--color-gainsboro-100);
+    outline: none;
+    border: none;
+}
+.pencarianProdukmu::placeholder {
+    position: absolute;
+    top: 230px;
+    left: 272px;
+    font-size: var(--font-size-2xs);
+    line-height: 20px;
+    font-weight: 500;
+    color: black;
+    color: #000;
+    background-color: var(--color-gainsboro-100);
+    outline: none;
+    border: none;
+}
+.tambahProdukChild1 {
+    position: absolute;
+    top: 282px;
+    left: 985px;
+    filter: blur(4px);
+    border-radius: var(--br-3xs);
+    background: linear-gradient(180deg, rgba(93, 240, 255, 0.5), rgba(79, 176, 255, 0.5));
+    width: 355px;
+    height: 352px;
+}
+.tambahProdukChild2 {
+    position: absolute;
+    top: 301px;
+    left: 1001px;
+    filter: blur(4px);
+    background-color: var(--color-gainsboro-200);
+    width: 323px;
+    height: 41px;
+}
+.tambahProduk2 {
+    position: absolute;
+    top: 312px;
+    left: 1101px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.namaProduk {
+    position: absolute;
+    top: 373px;
+    left: 1001.02px;
+    font-size: var(--font-size-smi);
+    font-weight: 500;
+    color: var(--color-gray-200);
+    display: inline-block;
+    width: 256px;
+    height: 30px;
+}
+.lineDiv {
+    position: absolute;
+    top: 404.74px;
+    left: 1000.5px;
+    border-top: 1px solid var(--color-gray-100);
+    box-sizing: border-box;
+    width: 297px;
+    height: 1px;
+}
+.hargaProduk {
+    position: absolute;
+    top: 415px;
+    left: 1001.02px;
+    font-size: var(--font-size-smi);
+    font-weight: 500;
+    color: var(--color-gray-200);
+    display: inline-block;
+    width: 256px;
+    height: 30px;
+}
+.tambahProdukChild3 {
+    position: absolute;
+    top: 446.74px;
+    left: 1000.5px;
+    border-top: 1px solid var(--color-gray-100);
+    box-sizing: border-box;
+    width: 297px;
+    height: 1px;
+}
+.stokYangTersedia {
+    position: absolute;
+    top: 457px;
+    left: 1001.02px;
+    font-size: var(--font-size-smi);
+    font-weight: 500;
+    color: var(--color-gray-200);
+    display: inline-block;
+    width: 256px;
+    height: 30px;
+}
+.tambahProdukChild4 {
+    position: absolute;
+    top: 488.74px;
+    left: 1000.5px;
+    border-top: 1px solid var(--color-gray-100);
+    box-sizing: border-box;
+    width: 297px;
+    height: 1px;
+}
+.tambahProdukChild5 {
+    position: absolute;
+    top: 504px;
+    left: 1001px;
+    background-color: var(--color-gainsboro-100);
+    width: 50px;
+    height: 50px;
+}
+.icon3 {
+    position: absolute;
+    top: 517px;
+    left: 1013px;
+    width: 25px;
+    height: 25px;
+    object-fit: cover;
+}
+.tambahkanFotoProduk {
+    position: absolute;
+    top: 520px;
+    left: 1060px;
+    font-size: var(--font-size-smi);
+    font-weight: 500;
+    color: var(--color-gray-200);
+    display: inline-block;
+    width: 256px;
+    height: 30px;
+}
+.tambahProdukChild6 {
+    position: absolute;
+    top: 583px;
+    left: 1171px;
+    background-color: #00c11a;
+    width: 82px;
+    height: 25px;
+}
+.konfirmasi {
+    position: absolute;
+    top: 586px;
+    left: 1181px;
+    font-size: var(--font-size-2xs);
+    line-height: 20px;
+    font-weight: 500;
+    color: var(--color-white);
+}
+.tambahProdukChild7 {
+    position: absolute;
+    top: 583px;
+    left: 1072px;
+    background-color: #b80000;
+    width: 82px;
+    height: 25px;
+}
+.batalkan {
+    position: absolute;
+    top: 586px;
+    left: 1083px;
+    font-size: var(--font-size-2xs);
+    line-height: 20px;
+    font-weight: 500;
+    color: var(--color-white);
+}
+.alatCek3 {
+    position: absolute;
+    top: 515px;
+    left: 297px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.kursiRodaGea {
+    position: absolute;
+    top: 363px;
+    left: 296px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.groupItem {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    filter: blur(4px);
+    background-color: var(--color-gainsboro-200);
+    width: 760px;
+    height: 41px;
+}
+.gambarProduk {
+    position: absolute;
+    top: 5px;
+    left: 6px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.namaProduk1 {
+    position: absolute;
+    top: 5px;
+    left: 162px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.hargaProduk1 {
+    position: absolute;
+    top: 5px;
+    left: 409px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.aksi {
+    position: absolute;
+    top: 5px;
+    left: 679px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.stok {
+    position: absolute;
+    top: 5px;
+    left: 582px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.rectangleGroup {
+    position: absolute;
+    top: 292px;
+    left: 134px;
+    width: 760px;
+    height: 41px;
+}
+.rp100000 {
+    position: absolute;
+    top: 363px;
+    left: 543px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.tambahProdukChild8 {
+    position: absolute;
+    top: 344px;
+    left: 166px;
+    border-radius: var(--br-8xs);
+    background-color: var(--color-gray-300);
+    width: 59px;
+    height: 57px;
+}
+.div3 {
+    position: absolute;
+    top: 363px;
+    left: 732px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.icon4 {
+    position: absolute;
+    top: 363px;
+    left: 818px;
+    width: 20px;
+    height: 20px;
+    object-fit: cover;
+}
+.tambahProdukChild9 {
+    position: absolute;
+    top: 576px;
+    left: 167px;
+    border-radius: var(--br-8xs);
+    background-color: var(--color-gray-300);
+    width: 59px;
+    height: 57px;
+}
+.groupIcon {
+    position: absolute;
+    top: 439px;
+    left: 818px;
+    width: 20px;
+    height: 20px;
+    object-fit: cover;
+}
+.groupInner {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: var(--br-8xs);
+    background-color: var(--color-gray-300);
+    width: 59px;
+    height: 57px;
+}
+.groupDiv {
+    position: absolute;
+    top: 420px;
+    left: 166px;
+    width: 59px;
+    height: 57px;
+}
+.tensimeterManual {
+    position: absolute;
+    top: 439px;
+    left: 296px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.rp65000 {
+    position: absolute;
+    top: 439px;
+    left: 543px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.div4 {
+    position: absolute;
+    top: 439px;
+    left: 730px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.maskerNeo {
+    position: absolute;
+    top: 590px;
+    left: 297px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.rp10000 {
+    position: absolute;
+    top: 19px;
+    left: 377px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.rectangleContainer {
+    position: absolute;
+    top: 496px;
+    left: 166px;
+    width: 443px;
+    height: 57px;
+}
+.rp129000 {
+    position: absolute;
+    top: 590px;
+    left: 544px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.div5 {
+    position: absolute;
+    top: 515px;
+    left: 725px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.tambahProdukChild10 {
+    position: absolute;
+    top: 515px;
+    left: 818px;
+    width: 20px;
+    height: 20px;
+    object-fit: cover;
+}
+.div6 {
+    position: absolute;
+    top: 590px;
+    left: 732px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.tambahProdukChild11 {
+    position: absolute;
+    top: 590px;
+    left: 818px;
+    width: 20px;
+    height: 20px;
+    object-fit: cover;
+}
+.tambahProdukChild12 {
+    position: absolute;
+    top: 671px;
+    left: 818px;
+    width: 20px;
+    height: 20px;
+    object-fit: cover;
+}
+.tambahProdukInner1 {
+    position: absolute;
+    top: 652px;
+    left: 167px;
+    width: 59px;
+    height: 57px;
+}
+.kertasUsgSony {
+    position: absolute;
+    top: 671px;
+    left: 297px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.rp650001 {
+    position: absolute;
+    top: 671px;
+    left: 544px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.div7 {
+    position: absolute;
+    top: 671px;
+    left: 731px;
+    line-height: 20px;
+    font-weight: 500;
+}
+.icon5 {
+    position: absolute;
+    top: 656px;
+    left: 186px;
+    width: 23px;
+    height: 50px;
+    object-fit: contain;
+}
+.whatsappImage20250109At1 {
+    position: absolute;
+    top: 590px;
+    left: 176px;
+    width: 40px;
+    height: 27.7px;
+    object-fit: cover;
+}
+.whatsappImage20250109At1Icon {
+    position: absolute;
+    top: 348px;
+    left: 172px;
+    width: 50px;
+    height: 49.4px;
+    object-fit: cover;
+}
+.screenshot202501131114452 {
+    position: absolute;
+    top: 425px;
+    left: 183px;
+    width: 25px;
+    height: 44.5px;
+    object-fit: cover;
+}
+.screenshot202501131125341 {
+    position: absolute;
+    top: 505px;
+    left: 175px;
+    width: 40px;
+    height: 41.9px;
+    object-fit: cover;
+}
+.tambahProduk {
+    width: 100%;
+    position: relative;
+    background: linear-gradient(180deg, #dcdbdb, #b2c0da);
+    height: 885px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-sm);
+    color: var(--color-black);
+    font-family: var(--font-poppins);
+}
+

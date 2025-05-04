@@ -4,12 +4,12 @@ import styles from '@/app/_components/EditProduk.module.css';
 import Link from 'next/link';
 import Image from 'next/image';
 import sampah from '@/assets/tambahproduk/3976961 1.png'
-import  kursiroda from '@/assets/tambahproduk/10573603 1.png';
-import tensi from '@/assets/tambahproduk/3976961 1.png';
-import alatcek from '@/assets/tambahproduk/101671512198820 1.png';
-import maskerneo from '@/assets/tambahproduk/WhatsApp Image 2025-01-09 at 19.43.45_73b01c53 1.png';
-import kertasusg from '@/assets/tambahproduk/WhatsApp_Image_2025-01-09_at_11.11.49_def170b3-removebg-preview 2.png';
-import kamera from '@/assets/orderan/1687775 1.png';
+import kertasusg from '@/assets/editproduk/ketasusg.png'
+import kursiroda from '@/assets/editproduk/kursiroda.png'
+import maskerneo from '@/assets/editproduk/maskerneo.png'
+import tensi from '@/assets/editproduk/tensimanual.png'
+import alatcek from '@/assets/editproduk/cekinnesco.png'
+import kamera from '@/assets/orderan/1687775 1.png'
 
 const EditProduk:FunctionComponent = () => {
   	return (
@@ -27,7 +27,7 @@ const EditProduk:FunctionComponent = () => {
 				</Link>
       			<div className={styles.alatCek3In1NescoParent}>
         				<div className={styles.alatCek3}>alat cek 3 in 1 nesco</div>
-        				<div className={styles.groupChild} />n
+        				<div className={styles.groupChild} />
         				<div className={styles.gambarProduk}>Gambar Produk</div>
         				<div className={styles.namaProduk}>Nama Produk</div>
         				<div className={styles.kursiRodaGea}>kursi roda gea</div>
@@ -64,15 +64,15 @@ const EditProduk:FunctionComponent = () => {
         				<div className={styles.rp650001}>Rp.65.000</div>
         				<div className={styles.div4}>15</div>
         				<Image className={styles.icon1} alt="" src={kertasusg} />
-        				<Image className={styles.icon2} alt="" src="1687775 1.png" />
+        				<Image className={styles.icon2} alt="" src={kamera} />
         				<Image className={styles.whatsappImage20250109At1} alt="" src={maskerneo} />
-        				<Image className={styles.whatsappImage20250109At1Icon} alt="" src="WhatsApp_Image_2025-01-09_at_11.11.49_def170b3-removebg-preview 2.png" />
-        				<Image className={styles.icon3} alt="" src="1687775 1.png" />
-        				<Image className={styles.screenshot202501131114452} alt="" src="Screenshot 2025-01-13 111445 2.png" />
-        				<Image className={styles.icon4} alt="" src="1687775 1.png" />
-        				<Image className={styles.icon5} alt="" src="1687775 2.png" />
-        				<Image className={styles.screenshot202501131125341} alt="" src="Screenshot 2025-01-13 112534 1.png" />
-        				<Image className={styles.icon6} alt="" src="1687775 1.png" />
+        				<Image className={styles.whatsappImage20250109At1Icon} alt="" src={kursiroda} />
+        				<Image className={styles.icon3} alt="" src={kamera} />
+        				<Image className={styles.screenshot202501131114452} alt="" src={tensi} />
+        				<Image className={styles.icon4} alt="" src={kamera} />
+        				<Image className={styles.icon5} alt="" src={kamera} />
+        				<Image className={styles.screenshot202501131125341} alt="" src={alatcek} />
+        				<Image className={styles.icon6} alt="" src={kamera} />
       			</div>
     		</div>);
 };

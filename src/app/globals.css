@@ -16,6 +16,7 @@ body {
 	  --font-size-3xs: 10px;
 	  --font-size-17xl: 36px;
 	  --font-size-2xs: 11px;
+	  --font-size-smi: 13px;
 
 	 
   	/* Colors */
@@ -30,6 +31,9 @@ body {
   	--color-white: #fff;
   	--color-gray-100: rgba(255, 255, 255, 0.4);
 	--color-limegreen: #00c11a;
+	--color-gray-200: rgba(134, 134, 134, 0.8);
+	--color-gray-300: rgba(145, 144, 142, 0.32);
+	--color-darkgray: rgba(166, 166, 166, 0.3);
   	
   	/* Border radiuses */
   	--br-3xs: 10px;

@@ -4,7 +4,7 @@
     left: 353px;
     filter: blur(4px);
     border-radius: 10px;
-    background-color: rgba(166, 166, 166, 0.3);
+    background: linear-gradient(180deg, rgba(93, 240, 255, 0.5), rgba(79, 176, 255, 0.5));
     width: 802px;
     height: 409px;
 }
@@ -377,7 +377,7 @@
     left: 52.03px;
     width: 26px;
     height: 22.7px;
-    transition: opacity 0.3s ease;
+    opacity: 0;
     object-fit: cover;
 }
 .icon2:hover {
@@ -387,6 +387,7 @@
     width: 26px;
     height: 22.7px;
     object-fit: cover;
+    transition:0.3s ease-in-out;
     opacity: 1;
    
 
@@ -414,6 +415,17 @@
     width: 26px;
     height: 22.7px;
     object-fit: cover;
+    opacity: 0;
+}
+.icon3:hover {
+    position: absolute;
+    top: 69.02px;
+    left: 50.99px;
+    width: 26px;
+    height: 22.7px;
+    object-fit: cover;
+    transition: 0.3s ease-in-out;
+    opacity: 1;
 }
 .screenshot202501131114452 {
     position: absolute;
@@ -430,6 +442,17 @@
     width: 26px;
     height: 22.7px;
     object-fit: cover;
+    opacity: 0;
+}
+.icon4:hover {
+    position: absolute;
+    top: 139.86px;
+    left: 50.99px;
+    width: 26px;
+    height: 22.7px;
+    object-fit: cover;
+    transition: 0.3s ease-in-out;
+    opacity: 1;
 }
 .icon5 {
     position: absolute;
@@ -438,6 +461,17 @@
     width: 26px;
     height: 22.7px;
     object-fit: cover;
+    opacity: 0;
+}
+.icon5:hover {
+    position: absolute;
+    top: 279.72px;
+    left: 50.99px;
+    width: 26px;
+    height: 22.7px;
+    object-fit: cover;
+    transition: 0.3s ease-in-out;
+    opacity: 1;
 }
 .screenshot202501131125341 {
     position: absolute;
@@ -454,6 +488,17 @@
     width: 26px;
     height: 22.7px;
     object-fit: cover;
+    opacity: 0;
+}
+.icon6:hover {
+    position: absolute;
+    top: 208.88px;
+    left: 50.99px;
+    width: 26px;
+    height: 22.7px;
+    object-fit: cover;
+    transition: 0.3s ease-in-out;
+    opacity: 1;
 }
 .alatCek3In1NescoParent {
     position: absolute;
@@ -473,6 +518,6 @@
     font-size: var(--font-size-2xs);
     color: var(--color-black);
     font-family: var(--font-poppins);
-    
+
 }
 

@@ -52,9 +52,30 @@
     position: absolute;
     top: 0px;
     left: 0px;
-    background-color: rgba(113, 113, 113, 0.6);
+    background-color: #41c6f4;
     width: 202px;
     height: 1065px;
+}
+.component33 {
+    position: absolute;
+    top: 99px;
+    left: 27px;
+    width: 99px;
+    height: 27px;
+    color: var(--color-white);
+}
+.kebawah {
+    position: absolute;
+    height: 48.15%;
+    width: 13.13%;
+    top: 33.33%;
+    right: -15.15%;
+    bottom: 18.52%;
+    left: 102.02%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
 }
 .alkesCom {
     position: absolute;
@@ -127,6 +148,7 @@
     line-height: 20px;
     font-weight: 600;
     transition-duration: 0.4s;
+
    color: black;
 }
 .tambahProduk:hover {
@@ -137,6 +159,8 @@
     font-weight: 600;
     transition-duration: 0.4s;
     background-color: rgba(255, 255, 255, 0.5);
+    backdrop-filter: blur(4px);
+    border-radius: 8px;
   transform: scale(1.05);
 }
 .groupChild {
@@ -378,7 +402,9 @@
     cursor: pointer;
     transition-duration: 0.4s;
     background-color: rgba(255, 255, 255, 0.5);
-  transform: scale(1.05);
+    backdrop-filter: blur(4px);
+    border-radius: 8px;
+    transform: scale(1.05);
 }
 .hariIni {
     position: absolute;
@@ -482,7 +508,7 @@
     left: 606px;
     backdrop-filter: blur(4px);
     border-radius: var(--br-3xs);
-    background: linear-gradient(180deg, #41c6f4, #6992d7);
+    background: linear-gradient(180deg, #5DF0FF, #4FB0FF    );
     width: 104px;
     height: 37px;
 }

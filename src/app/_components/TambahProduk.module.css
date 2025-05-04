@@ -1,17 +1,10 @@
-.containerWow {
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    width: 100%;
-    height: 100%;
-}
 .tambahProdukChild {
-    position: absolute;
+    position: relative;
     top: 271px;
     left: 313px;
     filter: blur(4px);
     border-radius: var(--br-3xs);
-    background-color: var(--color-darkgray-200);
+    background: linear-gradient(180deg, rgba(93, 240, 255, 0.5), rgba(79, 176, 255, 0.5));
     width: 801px;
     height: 469px;
 }
@@ -19,7 +12,7 @@
     position: absolute;
     top: 0px;
     left: 0px;
-    background-color: rgba(113, 113, 113, 0.6);
+    background: #41c6f4;
     width: 202px;
     height: 885px;
 }
@@ -39,20 +32,13 @@
     height: 27px;
     object-fit: cover;
 }
-.iniadmin {
-    position: absolute;
-    top: 103px;
-    left: 62px;
-    line-height: 20px;
-    font-weight: 600;
-    color: var(--color-white);
-}
 .dashboard {
     position: absolute;
     top: 166px;
     left: 27px;
     line-height: 20px;
     font-weight: 600;
+    transition-duration: 0.4s;
     color: #000;
 }
 .dashboard:hover {
@@ -64,9 +50,11 @@
     transition-duration: 0.4s;
     background-color: rgba(255, 255, 255, 0.5);
   transform: scale(1.05);
+  border-radius: 8px;
   color: #000;
     
 }
+
 .groupChild {
     position: absolute;
     top: 0px;
@@ -108,31 +96,7 @@
     width: 1262.1px;
     height: 1px;
 }
-.rectangleDiv {
-    position: absolute;
-    top: 133px;
-    left: 1322px;
-    border-radius: var(--br-8xs);
-    background-color: var(--color-darkgray-100);
-    width: 148px;
-    height: 29px;
-}
-.tambahProduk2 {
-    position: absolute;
-    top: 138px;
-    left: 1349px;
-    line-height: 20px;
-    font-weight: 600;
-}
 .icon1 {
-    position: absolute;
-    top: 142px;
-    left: 1333px;
-    width: 12px;
-    height: 12px;
-    object-fit: cover;
-}
-.icon2 {
     position: absolute;
     top: 755px;
     left: 1094px;
@@ -140,7 +104,7 @@
     height: 20px;
     object-fit: cover;
 }
-.icon3 {
+.icon2 {
     position: absolute;
     top: 756px;
     left: 1010px;
@@ -152,7 +116,7 @@
     position: absolute;
     top: 0px;
     left: 0px;
-    background-color: var(--color-gainsboro-100);
+    background-color: rgba(217, 217, 217, 0);
     width: 56px;
     height: 19px;
 }
@@ -193,16 +157,16 @@
     width: 10px;
     height: 1px;
 }
-.tambahProdukChild1 {
+.rectangleDiv {
     position: absolute;
     top: 212px;
     left: 313px;
     border-radius: var(--br-3xs);
-    background-color: var(--color-gainsboro-100);
+    background-color: #d9d9d9;
     width: 355px;
     height: 34px;
 }
-.icon4 {
+.icon3 {
     position: absolute;
     top: 220px;
     left: 330px;
@@ -217,45 +181,49 @@
     font-size: 11px;
     line-height: 20px;
     font-weight: 500;
-    color: rgba(0, 0, 0, 0.2);
+   color: #000;
+    background-color: var(--color-gainsboro-100);
+    outline: none;
+    border: none;
 }
-.tambahProdukChild2 {
+
+.tambahProdukChild1 {
     position: absolute;
-    top: 433px;
-    left: 1164px;
+    top: 271px;
+    left: 1219px;
     filter: blur(4px);
     border-radius: var(--br-3xs);
-    background-color: var(--color-darkgray-200);
+    background: linear-gradient(180deg, rgba(93, 240, 255, 0.5), rgba(79, 176, 255, 0.5));
     width: 355px;
     height: 307px;
 }
-.tambahProdukChild3 {
+.tambahProdukChild2 {
     position: absolute;
-    top: 447px;
-    left: 1180px;
+    top: 285px;
+    left: 1235px;
     filter: blur(4px);
-    background-color: var(--color-gainsboro-200);
+    background-color: var(--color-gainsboro-100);
     width: 323px;
     height: 41px;
 }
 .produkstokHabis {
     position: absolute;
-    top: 458px;
-    left: 1280px;
+    top: 296px;
+    left: 1335px;
     line-height: 20px;
     font-weight: 500;
 }
 .kertasUsgSony {
     position: absolute;
-    top: 525px;
-    left: 1262px;
+    top: 363px;
+    left: 1317px;
     line-height: 20px;
     font-weight: 500;
 }
-.tambahProdukChild4 {
+.tambahProdukChild3 {
     position: absolute;
-    top: 506px;
-    left: 1180px;
+    top: 344px;
+    left: 1235px;
     border-radius: var(--br-8xs);
     background-color: var(--color-gray-100);
     width: 59px;
@@ -294,15 +262,15 @@
 }
 .groupParent {
     position: absolute;
-    top: 582px;
-    left: 1180px;
+    top: 420px;
+    left: 1235px;
     width: 218px;
     height: 57px;
 }
 .groupDiv {
     position: absolute;
-    top: 658px;
-    left: 1180px;
+    top: 496px;
+    left: 1235px;
     width: 164px;
     height: 57px;
 }
@@ -312,8 +280,8 @@
     left: 27px;
     line-height: 20px;
     font-weight: 600;
-    color: #000;
-    transition: cubic-bezier(0.075, 0.82, 0.165, 1) 0.4s;
+    cursor: pointer;
+    color:black
 }
 .orderan:hover {
     position: absolute;
@@ -321,46 +289,56 @@
     left: 27px;
     line-height: 20px;
     font-weight: 600;
+    cursor: pointer;
     transition-duration: 0.4s;
     background-color: rgba(255, 255, 255, 0.5);
   transform: scale(1.05);
+  border-radius: 8px;
   color: #000;
 }
-.tambahProdukChild5 {
+.groupChild2 {
     position: absolute;
-    top: 133px;
-    left: 1164px;
+    top: 3px;
+    left: 0px;
     border-radius: var(--br-8xs);
-    background-color: var(--color-darkgray-100);
-    width: 148px;
-    height: 29px;
+    background-color: var(--color-darkgray);
+    width: 94px;
+    height: 16px;
 }
 .editProduk {
     position: absolute;
-    top: 138px;
-    left: 1202px;
+    top: 0px;
+    left: 12.35px;
     line-height: 20px;
     font-weight: 600;
-   transition-duration:0.4s;
-    color: #000;
+    display: inline-block;
+    width: 82.6px;
 }
-.editProduk:hover {
+.rectangleParent1 {
     position: absolute;
-    top: 138px;
-    left: 1202px;
-    line-height: 20px;
-    font-weight: 600;
-    background-color: rgba(255, 255, 255, 0.5);
+    top: 368px;
+    left: 989px;
+    width: 94.9px;
+    height: 20px;
+    cursor: pointer;
+    font-size: var(--font-size-2xs);
+    color:black;
+
+}
+.rectangleParent1:hover {
+    position: absolute;
+    top: 368px;
+    left: 989px;
+    width: 94.9px;
+    height: 20px;
+    cursor: pointer;
+    font-size: var(--font-size-2xs);
+    color:black;
+    transition-duration: 0.4s;
+	background-color: rgba(255, 255, 255, 0.5);
+	backdrop-filter: blur(1px);
+    border-radius: 8px;
   transform: scale(1.05);
-    color: #000;
-}
-.icon5 {
-    position: absolute;
-    top: 140px;
-    left: 1177px;
-    width: 15px;
-    height: 15px;
-    object-fit: cover;
 }
 .alatCek3 {
     position: absolute;
@@ -369,12 +347,12 @@
     line-height: 20px;
     font-weight: 500;
 }
-.groupChild2 {
+.groupChild3 {
     position: absolute;
     top: 0px;
     left: 0px;
     filter: blur(4px);
-    background-color: var(--color-gainsboro-200);
+    background-color: var(--color-gainsboro-100);
     width: 756px;
     height: 41px;
 }
@@ -427,7 +405,7 @@
     line-height: 20px;
     font-weight: 500;
 }
-.groupChild3 {
+.groupChild4 {
     position: absolute;
     top: 62px;
     left: 39px;
@@ -443,15 +421,7 @@
     line-height: 20px;
     font-weight: 500;
 }
-.icon6 {
-    position: absolute;
-    top: 81px;
-    left: 691px;
-    width: 20px;
-    height: 20px;
-    object-fit: cover;
-}
-.groupChild4 {
+.groupChild5 {
     position: absolute;
     top: 294px;
     left: 40px;
@@ -459,14 +429,6 @@
     background-color: var(--color-gray-100);
     width: 59px;
     height: 57px;
-}
-.groupIcon {
-    position: absolute;
-    top: 157px;
-    left: 691px;
-    width: 20px;
-    height: 20px;
-    object-fit: cover;
 }
 .rectangleWrapper {
     position: absolute;
@@ -510,13 +472,14 @@
     line-height: 20px;
     font-weight: 500;
 }
-.rectangleParent1 {
+.rectangleParent2 {
     position: absolute;
     top: 214px;
     left: 39px;
     width: 443px;
     height: 57px;
 }
+
 .rp129000 {
     position: absolute;
     top: 308px;
@@ -531,36 +494,12 @@
     line-height: 20px;
     font-weight: 500;
 }
-.groupChild7 {
-    position: absolute;
-    top: 233px;
-    left: 691px;
-    width: 20px;
-    height: 20px;
-    object-fit: cover;
-}
 .div6 {
     position: absolute;
     top: 308px;
     left: 605px;
     line-height: 20px;
     font-weight: 500;
-}
-.groupChild8 {
-    position: absolute;
-    top: 308px;
-    left: 691px;
-    width: 20px;
-    height: 20px;
-    object-fit: cover;
-}
-.groupChild9 {
-    position: absolute;
-    top: 389px;
-    left: 691px;
-    width: 20px;
-    height: 20px;
-    object-fit: cover;
 }
 .rectangleFrame {
     position: absolute;
@@ -590,7 +529,7 @@
     line-height: 20px;
     font-weight: 500;
 }
-.icon7 {
+.icon4 {
     position: absolute;
     top: 374px;
     left: 59px;
@@ -630,28 +569,220 @@
     height: 41.9px;
     object-fit: cover;
 }
+.rectangleParent3 {
+    position: absolute;
+    top: 233px;
+    left: 670px;
+    width: 94.9px;
+    height: 20px;
+    cursor: pointer;
+    font-size: var(--font-size-2xs);
+    color:black
+}
+.rectangleParent3:hover {
+    position: absolute;
+    top: 233px;
+    left: 670px;
+    width: 94.9px;
+    height: 20px;
+    cursor: pointer;
+    font-size: var(--font-size-2xs);
+    color:black;
+    transition-duration: 0.4s;
+	background-color: rgba(255, 255, 255, 0.5);
+	backdrop-filter: blur(1px);
+    border-radius: 8px;
+  transform: scale(1.05);
+}
+.rectangleParent4 {
+    position: absolute;
+    top: 308px;
+    left: 670px;
+    width: 94.9px;
+    height: 20px;
+    cursor: pointer;
+    font-size: var(--font-size-2xs);
+    color: #000;
+}
+.rectangleParent4:hover {
+    position: absolute;
+    top: 308px;
+    left: 670px;
+    width: 94.9px;
+    height: 20px;
+    cursor: pointer;
+    font-size: var(--font-size-2xs);
+    color:black;
+    transition-duration: 0.4s;
+	background-color: rgba(255, 255, 255, 0.5);
+	backdrop-filter: blur(1px);
+    border-radius: 8px;
+  transform: scale(1.05);
+}
+.rectangleParent5 {
+    position: absolute;
+    top: 389px;
+    left: 670px;
+    width: 94.9px;
+    height: 20px;
+    cursor: pointer;
+    font-size: var(--font-size-2xs);
+    color: #000;
+}
+.rectangleParent5:hover {
+    position: absolute;
+    top: 389px;
+    left: 670px;
+    width: 94.9px;
+    height: 20px;
+    cursor: pointer;
+    font-size: var(--font-size-2xs);
+    color:black;
+    transition-duration: 0.4s;
+	background-color: rgba(255, 255, 255, 0.5);
+	backdrop-filter: blur(1px);
+    border-radius: 8px;
+  transform: scale(1.05);
+}
 .alatCek3In1NescoParent {
     position: absolute;
     top: 288px;
     left: 325px;
-    width: 756px;
+    width: 764.9px;
     height: 427px;
 }
-.icon8 {
+.icon5 {
     position: absolute;
-    top: 510px;
-    left: 1198px;
+    top: 348px;
+    left: 1253px;
     width: 23px;
     height: 50px;
     object-fit: contain;
 }
 .whatsappImage20250109At11 {
     position: absolute;
-    top: 673px;
-    left: 1190px;
+    top: 511px;
+    left: 1245px;
     width: 40px;
     height: 27.7px;
     object-fit: cover;
+}
+.icon6 {
+    position: absolute;
+    height: 100%;
+    width: 27.27%;
+    top: 0%;
+    right: 72.73%;
+    bottom: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.iniadmin {
+    position: absolute;
+    top: 14.81%;
+    left: 35.35%;
+    line-height: 20px;
+    font-weight: 600;
+}
+.icon7 {
+    position: absolute;
+    height: 48.15%;
+    width: 13.13%;
+    top: 33.33%;
+    right: -15.15%;
+    bottom: 18.52%;
+    left: 102.02%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.component3 {
+    position: absolute;
+    top: 99px;
+    left: 27px;
+    width: 99px;
+    height: 27px;
+    color: var(--color-white);
+}
+.rectangleParent6 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 94.9px;
+    height: 20px;
+    cursor: pointer;
+    color:black
+}
+.rectangleParent6:hover {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 94.9px;
+    height: 20px;
+    cursor: pointer;
+    color:black;
+    transition-duration: 0.4s;
+	background-color: rgba(255, 255, 255, 0.5);
+	backdrop-filter: blur(1px);
+    border-radius: 8px;
+  transform: scale(1.05);
+}
+.tambahProdukInner1 {
+    position: absolute;
+    top: 445px;
+    left: 992px;
+    width: 94.9px;
+    height: 20px;
+    cursor: pointer;
+    font-size: var(--font-size-2xs);
+}
+.groupChild13 {
+    position: absolute;
+    top: 2.2px;
+    left: 0px;
+    border-radius: var(--br-8xs);
+    background-color: #4fb0ff;
+    width: 123px;
+    height: 19.8px;
+}
+.tambahProduk2 {
+    position: absolute;
+    top: 0px;
+    left: 12px;
+    line-height: 20px;
+    font-weight: 600;
+    display: inline-block;
+    width: 107px;
+    height: 22px;
+}
+.rectangleParent7 {
+    position: absolute;
+    top: 144px;
+    left: 1451px;
+    width: 123px;
+    height: 22px;
+    cursor: pointer;
+    font-size: 13px;
+    color: #000;
+}
+.rectangleParent7:hover {
+    position: absolute;
+    top: 144px;
+    left: 1451px;
+    width: 123px;
+    height: 22px;
+    cursor: pointer;
+    font-size: 13px;
+    color:black;
+    transition-duration: 0.4s;
+	background-color: rgba(255, 255, 255, 0.5);
+	backdrop-filter: blur(1px);
+    border-radius: 8px;
+  transform: scale(1.05);
 }
 .tambahProduk {
     width: 100%;

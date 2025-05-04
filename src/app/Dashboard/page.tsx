@@ -15,7 +15,8 @@ import Stats4 from '@/assets/dashboard/Stats4.png';
 
 import Profile from '@/assets/dashboard/profile.png';
 
-import rectangle from '@/assets/tambahproduk/Rectangle 120.svg'
+import rectangle from '@/assets/editproduk/Rectangle 120.svg'
+import kebawah from '@/assets/tambahproduk/2985150 1.png'
 const Dashboard: FunctionComponent = () => {
   return (
 
@@ -33,7 +34,9 @@ const Dashboard: FunctionComponent = () => {
       <div className={styles.pengiriman}>Pengiriman</div>
       <div className={styles.div1}>4</div>
       <Image className={styles.icon} alt="" src={iniadmin} />
-      
+      <div className={styles.component33}>
+				<Image className={styles.kebawah} alt="" src={kebawah} />
+			</div>
       <div className={styles.iniadmin}>iniadmin</div>
       <Link href="/TambahProduk">
       <div className={styles.tambahProduk}>Tambah Produk</div>
